@@ -2,7 +2,7 @@
 
 **Computer Science Student | Full-Stack Developer | AI Enthusiast**
 
-Welcome to my GitHub! I'm a passionate computer science student with extensive experience in web development and cloud technologies. Currently in my 7th semester pursuing B.Sc. Applied Computer Science at Hamburg University of Applied Sciences.
+Welcome to my GitHub! I'm a passionate computer science student with extensive experience in web development and cloud technologies.
 
 ## 🚀 About Me
 
