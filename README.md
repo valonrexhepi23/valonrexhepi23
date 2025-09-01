@@ -9,8 +9,7 @@ Welcome to my GitHub! I'm a passionate computer science student with extensive e
 - 🎯 **Currently working on**: [hives.work](https://www.hives.work) - An AI-powered job search platform
 - 💼 **Professional Role**: Working Student at adesso SE (May 2022 - July 2025)
 - 🌟 **Specialization**: Full-stack web development, cloud technologies, and AI-driven solutions
-- 🎓 **Education**: B.Sc. Applied Computer Science (Expected graduation: August 2025)
-- 📍 **Location**: Norderstedt, Germany
+- 🎓 **Education**: B.Sc. Applied Computer Science (Graduated: August 2025)
 
 ## 💻 Technical Stack
 
