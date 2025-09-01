@@ -107,9 +107,3 @@ I'm always interested in collaborating on innovative projects, especially those 
 <div align="center">
   <i>⭐ Star my repositories if you find them interesting!</i>
 </div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=valonrexhepi23&color=brightgreen)
-
-</div>
