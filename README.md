@@ -5,8 +5,8 @@ Hi there, I'm Valon Rexhepi! 👋
 
 Welcome to my GitHub! I'm a passionate computer science student with extensive experience in web development and cloud technologies.
 
-🚀 About Me
------------
+🚀 `About Me`
+-------------
 
 *   🎯 **Currently working on**: [hives.work](https://www.hives.work) - An AI-powered job search platform
     
