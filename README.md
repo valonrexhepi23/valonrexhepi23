@@ -129,6 +129,3 @@ I'm always interested in collaborating on innovative projects, especially those 
 *   📧 Email: [valon.rexhepi19@hotmail.com](mailto:valon.rexhepi19@hotmail.com)
     
 *   💼 LinkedIn: Let's connect!
-    
-
-* * *
