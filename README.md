@@ -1,5 +1,5 @@
-Hi there, I'm Valon Rexhepi! 👋
-===============================
+**Hi there, I'm Valon Rexhepi! 👋**
+===================================
 
 **Computer Science Student | Full-Stack Developer | AI Enthusiast**
 
