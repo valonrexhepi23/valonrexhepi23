@@ -3,7 +3,7 @@
 
 **Computer Science Student | Full-Stack Developer | AI Enthusiast**
 
-Welcome to my GitHub! I'm a passionate computer science student with extensive experience in web development and cloud technologies.
+Welcome to my GitHub! I'm a passionate computer science graduate with extensive experience in web development and cloud technologies.
 
 🚀 `About Me`
 -------------
