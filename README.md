@@ -5,6 +5,8 @@
 
 Welcome to my GitHub! I'm a passionate computer science graduate with extensive experience in web development and cloud technologies.
 
+Hi ich bin Lena
+
 🚀 `About Me`
 -------------
 
