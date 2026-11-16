@@ -41,16 +41,6 @@ Welcome to my GitHub! I'm a passionate computer science graduate with extensive 
 🛠️ Featured Projects
 ---------------------
 
-### 🤖 [hives.work](https://www.hives.work) - AI-Powered Job Search Platform
-
-**Tech Stack**: Next.js, OpenAI API, LangChain, TailwindCSS, Vercel
-
-*   Implemented natural language processing algorithms for intelligent job matching
-    
-*   Integrated real-time data sources for current job postings
-    
-*   Optimized UX for intuitive and efficient job searching
-    
 
 ### 📊 AI-Supported Offer Analysis Web Application
 
