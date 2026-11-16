@@ -7,8 +7,6 @@ Welcome to my GitHub! I'm a passionate computer science graduate with extensive 
 
 🚀 `About Me`
 -------------
-
-*   🎯 **Currently working on**: [winci](https://www.winci.tech)
     
 *   💼 Professional Role: Working Student at adesso SE (May 2022 - July 2025)
     
